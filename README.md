@@ -1,2 +1,2 @@
-# Not a Top 10 Podcast
-Podcast
+# Not a Top 10 Podcast (readme)
+Our Podcast
