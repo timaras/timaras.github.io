@@ -1,2 +1,6 @@
-# Not a Top 10 Podcast (readme)
-Our Podcast
+# NOT A TOP 10 PODCAST (https:www.notatop10.fm)
+
+Ένα podcast για την επιστήμη και την τεχνολογία στα ελληνικά, από τους Γιώργο Δημόπουλο και Θέμο Κάλλο.
+
+Ακούστε μας στον podcast player της επιλογής σας:
+
