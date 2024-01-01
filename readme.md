@@ -1,6 +1,6 @@
 # [NOT A TOP 10 PODCAST](https://www.notatop10.fm/)
 
-Ένα podcast για την επιστήμη και την τεχνολογία στα ελληνικά, από τους Γιώργο Δημόπουλο και [Θέμο Κάλλο](https://www.timaras.com).
+Ένα podcast για την επιστήμη και την τεχνολογία στα ελληνικά, από τους [Γιώργο Δημόπουλο](https://www.instagram.com/giorgos.dimop) και [Θέμο Κάλλο](https://www.timaras.com).
 
 Ακούστε μας στον podcast player της επιλογής σας:
 
