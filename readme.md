@@ -38,5 +38,5 @@ O Γιώργος γεννήθηκε και μεγάλωσε στην Πάτρα.
 
 ## Συντελεστές
 
-- Cover art: [@kirtha_](https://www.instagram.com/yuthel/)
+- Cover art: [@yuthel](https://www.instagram.com/yuthel/)
 - Μουσική: [@dimpa_____](https://www.instagram.com/@dimpa_____)
