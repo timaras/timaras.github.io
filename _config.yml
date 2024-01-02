@@ -1,2 +1,7 @@
 theme: jekyll-theme-yat
 
+header_pages:
+  - readme.md
+  - contact.md
+  - index.md
+
